@@ -1,5 +1,5 @@
 # MAC-adbinstall
-# MAC-adbinstall
+
 打开终端软件，输入相关命令进入该脚本目录。
 
 然后运行 
